@@ -1,0 +1,40 @@
+
+Id: T58
+Strides:
+TAMPERING
+
+Cross-Site Scripting (XSS)
+Description:
+XSS flaws occur when a web application receives data from unreliable sources, and send them to a browser without proper validation and / or escaping. The XSS allows attackers to execute malicious scripts on the browser of the victims, these scripts can hijack the user's session, deface the website or redirect the user to a malicious site
+Id: T61
+Strides:
+TAMPERING
+
+Injection flaws
+Description:
+The Injection Flaws, such as SQL Injection, OS Injection and LDAP injection, occur when data not validated are sent as part of a command or query to their interpreter. The data can deceive the interpreter running commands not provided or accessing data for which you have no authorization.
+Id: T92
+Strides:
+INFORMATION DISCLOSURE
+
+TAMPERING
+
+DENIAL OF SERVICE
+
+Format String Error
+Description:
+This threat applies when an erroneous input string is interpreted as a command
+Id: T66
+Strides:
+SPOOFING
+
+Sensitive Data Exposure
+Description:
+Many web applications do not adequately protect data such as credit card numbers or authentication credentials. Attackers can take possession of the data or take advantage of the weaknesses in the security measures for the theft of credentials, for fraudulent transactions with CdC, etc. This type of data, require additional protective measures, such as encryption for data in transit, as well as special precautions when they are exchanged with the browser.
+Id: T126
+Strides:
+SPOOFING
+
+Gaining control over on-path servers
+Description:
+An adversary can gain control of servers

@@ -1,0 +1,103 @@
+
+Id: T54
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+ELEVATION OF PRIVILEGES
+
+Account Hijacking
+Description:
+In account hijacking, a hacker uses a compromised account to impersonate the account owner. Typically, account hijacking is carried out through social engineering, phishing, sending spoofed emails to the user, password guessing or a number of other hacking tactics. In many cases, the outcome of an account hijacking is the hacker will have full system access and the ability to laterally access other systems on the target user network. The effective breach scope may expand to other services, such as financial and social networks, due to password re-use across services.
+Id: T69
+Strides:
+INFORMATION DISCLOSURE
+
+Weak Identity, Credential & Access Management
+Description:
+Lack of highly scalable identity access management systems, lack of multi-factor authentication capabilities, weak password usage, and lack of ongoing automated rotation of cryptographic keys, passwords, and certificates. Furthermore, hygiene of credentials ranging from embedding in source code and distribution in publicly available source code may be considerations.
+Id: T130
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+ELEVATION OF PRIVILEGES
+
+Hijacking
+Description:
+Using a packet sniffer (a tool for detecting the presence and movement of data packets), an attacker may capture data packets and gain full access to an HTTP information
+Id: T155
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+ELEVATION OF PRIVILEGES
+
+Hijacking
+Description:
+Using a packet sniffer (a tool for detecting the presence and movement of data packets), an attacker may capture data packets and gain full access to an HTTP information
+Id: T55
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+ELEVATION OF PRIVILEGES
+
+Advanced Persistent Threats (APTs)
+Description:
+An advanced persistent threat (APT) is a system attack in which an unauthorized actor gains access to the infrastructure and remains undetected. The intention of an APT attack is to locate and steal data and evade detection, rather than to cause damage to the network or organization. APT attacks target organizations in sectors with high-value information, such as national defence, manufacturing, infrastructure, medical, scientific, and the financial industry.
+Id: T56
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+Broken Authentication and Session Management
+Description:
+The application procedures related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, session tokens, or exploit weaknesses implementative to impersonate other users.
+Id: T93
+Strides:
+SPOOFING
+
+Session Hjacking
+Description:
+The session can be duplicated by a malicius third party, by duplicating cookies or other critical information
+Id: T57
+Strides:
+TAMPERING
+
+Cross-Site Request Forgery (CSRF)
+Description:
+A CSRF attack forces the victim's browser to send an HTTP request properly forged, including the victim's session cookie and any other authentication information, to a vulnerable web application. This allows the attacker to force the victim's browser to generate requests that the vulnerable application will believe legitimately sent by the victim.
+Id: T60
+Strides:
+DENIAL OF SERVICE
+
+Denial of Service
+Description:
+DoS and DDoS are both denial-of-service attacks. The attacks work by requesting more resources from a server than the server has available. In the case of DoS, it is an attack that originates from a single device, as opposed to DDoS which is distributed and relies on multiple devices.
+Id: T61
+Strides:
+TAMPERING
+
+Injection flaws
+Description:
+The Injection Flaws, such as SQL Injection, OS Injection and LDAP injection, occur when data not validated are sent as part of a command or query to their interpreter. The data can deceive the interpreter running commands not provided or accessing data for which you have no authorization.
+Id: T66
+Strides:
+SPOOFING
+
+Sensitive Data Exposure
+Description:
+Many web applications do not adequately protect data such as credit card numbers or authentication credentials. Attackers can take possession of the data or take advantage of the weaknesses in the security measures for the theft of credentials, for fraudulent transactions with CdC, etc. This type of data, require additional protective measures, such as encryption for data in transit, as well as special precautions when they are exchanged with the browser.
+Id: T126
+Strides:
+SPOOFING
+
+Gaining control over on-path servers
+Description:
+An adversary can gain control of servers

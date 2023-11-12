@@ -1,0 +1,109 @@
+
+Id: T12
+Strides:
+SPOOFING
+
+Obtaining Client Secret by Online Guessing
+Description:
+Applies to OAUTH client. An attacker may try to guess valid <client_id/secret> pairs.
+Id: T51
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+Online Guessing
+Description:
+An attacker may try to guess valid username/password combinations
+Id: T53
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+Guessing Access Tokens based on acquired Knownledge
+Description:
+An attacker may attempt to guess the secret values based on previous knowledge
+Id: T55
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+ELEVATION OF PRIVILEGES
+
+Advanced Persistent Threats (APTs)
+Description:
+An advanced persistent threat (APT) is a system attack in which an unauthorized actor gains access to the infrastructure and remains undetected. The intention of an APT attack is to locate and steal data and evade detection, rather than to cause damage to the network or organization. APT attacks target organizations in sectors with high-value information, such as national defence, manufacturing, infrastructure, medical, scientific, and the financial industry.
+Id: T56
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+Broken Authentication and Session Management
+Description:
+The application procedures related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, session tokens, or exploit weaknesses implementative to impersonate other users.
+Id: T69
+Strides:
+INFORMATION DISCLOSURE
+
+Weak Identity, Credential & Access Management
+Description:
+Lack of highly scalable identity access management systems, lack of multi-factor authentication capabilities, weak password usage, and lack of ongoing automated rotation of cryptographic keys, passwords, and certificates. Furthermore, hygiene of credentials ranging from embedding in source code and distribution in publicly available source code may be considerations.
+Id: T93
+Strides:
+SPOOFING
+
+Session Hjacking
+Description:
+The session can be duplicated by a malicius third party, by duplicating cookies or other critical information
+Id: T59
+Strides:
+INFORMATION DISCLOSURE
+
+Data Breaches
+Description:
+A data breach is an incident in which sensitive, protected or confidential data has potentially been viewed, stolen or used by an individual unauthorised lo do so. Data breaches may involve personal health information (PHI), personally identifiable information (PII), trade secrets or intellectual property.
+Id: T60
+Strides:
+DENIAL OF SERVICE
+
+Denial of Service
+Description:
+DoS and DDoS are both denial-of-service attacks. The attacks work by requesting more resources from a server than the server has available. In the case of DoS, it is an attack that originates from a single device, as opposed to DDoS which is distributed and relies on multiple devices.
+Id: T64
+Strides:
+ELEVATION OF PRIVILEGES
+
+Missing Function Level Access Control
+Description:
+Many applications check the level of access rights before its functionality is made visible in the user interface. However, applications need to perform access control on the server each time the feature is accessed. If access requests are not verified, the attackers can falsify them to gain unauthorized access to features.
+Id: T65
+Strides:
+ELEVATION OF PRIVILEGES
+
+Over-privileged application and accounts
+Description:
+Threat aimed to gain privileged access to resources for gaining unauthorized access to information or to compromise a system.
+Id: T67
+Strides:
+ELEVATION OF PRIVILEGES
+
+Unauthorized access to admin interface
+Description:
+Threat aimed to gain privileged access to resources for gaining unauthorized access to information or to compromise a system.
+Id: T123
+Strides:
+ELEVATION OF PRIVILEGES
+
+Gaining unauthorized entry to a server or account
+Description:
+An adversary can entry to a server ora account without authorization
+Id: T74
+Strides:
+TAMPERING
+
+File System Profiling
+Description:
+File system profiling attacks attempt to use access type, timestamps of last modification, file names, and other file system metadata to gain insight about storage system operation. For example, if a set of files are accessed in regular patterns, the attacker may infer the importance, function, and possibly even the content of these files.

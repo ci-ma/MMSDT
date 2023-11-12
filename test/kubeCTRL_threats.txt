@@ -1,0 +1,35 @@
+
+Id: T55
+Strides:
+INFORMATION DISCLOSURE
+
+ELEVATION OF PRIVILEGES
+
+SPOOFING
+
+Advanced Persistent Threats (APTs)
+Description:
+An advanced persistent threat (APT) is a system attack in which an unauthorized actor gains access to the infrastructure and remains undetected. The intention of an APT attack is to locate and steal data and evade detection, rather than to cause damage to the network or organization. APT attacks target organizations in sectors with high-value information, such as national defence, manufacturing, infrastructure, medical, scientific, and the financial industry.
+Id: T56
+Strides:
+INFORMATION DISCLOSURE
+
+SPOOFING
+
+Broken Authentication and Session Management
+Description:
+The application procedures related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, session tokens, or exploit weaknesses implementative to impersonate other users.
+Id: T69
+Strides:
+INFORMATION DISCLOSURE
+
+Weak Identity, Credential & Access Management
+Description:
+Lack of highly scalable identity access management systems, lack of multi-factor authentication capabilities, weak password usage, and lack of ongoing automated rotation of cryptographic keys, passwords, and certificates. Furthermore, hygiene of credentials ranging from embedding in source code and distribution in publicly available source code may be considerations.
+Id: T93
+Strides:
+SPOOFING
+
+Session Hjacking
+Description:
+The session can be duplicated by a malicius third party, by duplicating cookies or other critical information

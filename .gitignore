@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore virtual environment
+env/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore security test plan directory
+security_test_plan/

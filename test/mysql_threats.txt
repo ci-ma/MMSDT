@@ -1,0 +1,128 @@
+Id: T56
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+Broken Authentication and Session Management
+Description:
+The application procedures related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, session tokens, or exploit weaknesses implementative to impersonate other users.
+Id: T69
+Strides:
+INFORMATION DISCLOSURE
+
+Weak Identity, Credential & Access Management
+Description:
+Lack of highly scalable identity access management systems, lack of multi-factor authentication capabilities, weak password usage, and lack of ongoing automated rotation of cryptographic keys, passwords, and certificates. Furthermore, hygiene of credentials ranging from embedding in source code and distribution in publicly available source code may be considerations.
+Id: T93
+Strides:
+SPOOFING
+
+Session Hjacking
+Description:
+The session can be duplicated by a malicius third party, by duplicating cookies or other critical information
+Id: T59
+Strides:
+INFORMATION DISCLOSURE
+
+Data Breaches
+Description:
+A data breach is an incident in which sensitive, protected or confidential data has potentially been viewed, stolen or used by an individual unauthorised lo do so. Data breaches may involve personal health information (PHI), personally identifiable information (PII), trade secrets or intellectual property.
+Id: T60
+Strides:
+DENIAL OF SERVICE
+
+Denial of Service
+Description:
+DoS and DDoS are both denial-of-service attacks. The attacks work by requesting more resources from a server than the server has available. In the case of DoS, it is an attack that originates from a single device, as opposed to DDoS which is distributed and relies on multiple devices.
+Id: T61
+Strides:
+TAMPERING
+
+Injection flaws
+Description:
+The Injection Flaws, such as SQL Injection, OS Injection and LDAP injection, occur when data not validated are sent as part of a command or query to their interpreter. The data can deceive the interpreter running commands not provided or accessing data for which you have no authorization.
+Id: T66
+Strides:
+SPOOFING
+
+Sensitive Data Exposure
+Description:
+Many web applications do not adequately protect data such as credit card numbers or authentication credentials. Attackers can take possession of the data or take advantage of the weaknesses in the security measures for the theft of credentials, for fraudulent transactions with CdC, etc. This type of data, require additional protective measures, such as encryption for data in transit, as well as special precautions when they are exchanged with the browser.
+Id: T126
+Strides:
+SPOOFING
+
+Gaining control over on-path servers
+Description:
+An adversary can gain control of servers
+Id: T54
+Strides:
+SPOOFING
+
+ELEVATION OF PRIVILEGES
+
+INFORMATION DISCLOSURE
+
+Account Hijacking
+Description:
+In account hijacking, a hacker uses a compromised account to impersonate the account owner. Typically, account hijacking is carried out through social engineering, phishing, sending spoofed emails to the user, password guessing or a number of other hacking tactics. In many cases, the outcome of an account hijacking is the hacker will have full system access and the ability to laterally access other systems on the target user network. The effective breach scope may expand to other services, such as financial and social networks, due to password re-use across services.
+Id: T130
+Strides:
+SPOOFING
+
+ELEVATION OF PRIVILEGES
+
+INFORMATION DISCLOSURE
+
+Hijacking
+Description:
+Using a packet sniffer (a tool for detecting the presence and movement of data packets), an attacker may capture data packets and gain full access to an HTTP information
+Id: T155
+Strides:
+SPOOFING
+
+ELEVATION OF PRIVILEGES
+
+INFORMATION DISCLOSURE
+
+Hijacking
+Description:
+Using a packet sniffer (a tool for detecting the presence and movement of data packets), an attacker may capture data packets and gain full access to an HTTP information
+Id: T83
+Strides:
+DENIAL OF SERVICE
+
+Power Disruption
+Description:
+If the power supply to a storage devices is disrupted, storage systems can become unavailable and data/metadata lost. Many storage systems have backup power sources for this reason, however, even in these cases long term power disruption is possible.
+Id: T84
+Strides:
+DENIAL OF SERVICE
+
+Network Disruption
+Description:
+Regardless of the underlying network technology, any hardware component or cable disruption to the network between the user and the storage system can degrade or disable storage.
+Id: T85
+Strides:
+INFORMATION DISCLOSURE
+
+TAMPERING
+
+Storage Theft
+Description:
+Thefts of storage media, storage devices, and computers containing storage systems occur. Recently, there has been an epidemic of thefts of unencrypted storage tapes containing confidential customer information. The decreasing size of portable storage combined with increasing capacity'e.g., a USB memory stick with 4GB capacity'makes it easier to steal storage media. Although such thefts require low levels of sophistication on the attacker's part, they may result in large economic and security damages unless the stolen data/metadata is encrypted and replicated.
+Id: T86
+Strides:
+INFORMATION DISCLOSURE
+
+Data Recovery from Discarded Storage Media
+Description:
+Neglecting to properly sanitize storage media before disposing of them allows attackers (or other third parties) access to data and metadata. Proper sanitation techniques include:, e.g. overwriting, degaussing, and encryption (along with destruction of corresponding decryption key).
+Id: T87
+Strides:
+DENIAL OF SERVICE
+
+Physical Destruction of Storage Media
+Description:
+Storage media can be physically destroyed by attackers using disintegration, incineration, pulverization, shredding, or melting. If storage media is intentionally destroyed by the owner with a purpose of retiring it, the data may still be recoverable. Hughes demonstrates that even after shooting at a hard disk with a bullet, it is still possible to read data using special instruments such as a Magnetic Force Microscope.

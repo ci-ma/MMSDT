@@ -1,0 +1,161 @@
+Id: T56
+Strides:
+SPOOFING
+
+INFORMATION DISCLOSURE
+
+Broken Authentication and Session Management
+Description:
+The application procedures related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, session tokens, or exploit weaknesses implementative to impersonate other users.
+Id: T69
+Strides:
+INFORMATION DISCLOSURE
+
+Weak Identity, Credential & Access Management
+Description:
+Lack of highly scalable identity access management systems, lack of multi-factor authentication capabilities, weak password usage, and lack of ongoing automated rotation of cryptographic keys, passwords, and certificates. Furthermore, hygiene of credentials ranging from embedding in source code and distribution in publicly available source code may be considerations.
+Id: T93
+Strides:
+SPOOFING
+
+Session Hjacking
+Description:
+The session can be duplicated by a malicius third party, by duplicating cookies or other critical information
+Id: T59
+Strides:
+INFORMATION DISCLOSURE
+
+Data Breaches
+Description:
+A data breach is an incident in which sensitive, protected or confidential data has potentially been viewed, stolen or used by an individual unauthorised lo do so. Data breaches may involve personal health information (PHI), personally identifiable information (PII), trade secrets or intellectual property.
+Id: T66
+Strides:
+SPOOFING
+
+Sensitive Data Exposure
+Description:
+Many web applications do not adequately protect data such as credit card numbers or authentication credentials. Attackers can take possession of the data or take advantage of the weaknesses in the security measures for the theft of credentials, for fraudulent transactions with CdC, etc. This type of data, require additional protective measures, such as encryption for data in transit, as well as special precautions when they are exchanged with the browser.
+Id: T126
+Strides:
+SPOOFING
+
+Gaining control over on-path servers
+Description:
+An adversary can gain control of servers
+Id: T80
+Strides:
+DENIAL OF SERVICE
+
+Deletion of Data
+Description:
+Deleting data or metadata is an extreme DoS attack but also one that is easily detectable and possibly recoverable given versioning or backups in time or space. If the deleted data is unrecoverable, the cost may range from insignificant to incalculable. Deleting system and network logs is commonly used by attackers to cover their attack traces.
+Id: T83
+Strides:
+DENIAL OF SERVICE
+
+Power Disruption
+Description:
+If the power supply to a storage devices is disrupted, storage systems can become unavailable and data/metadata lost. Many storage systems have backup power sources for this reason, however, even in these cases long term power disruption is possible.
+Id: T84
+Strides:
+DENIAL OF SERVICE
+
+Network Disruption
+Description:
+Regardless of the underlying network technology, any hardware component or cable disruption to the network between the user and the storage system can degrade or disable storage.
+Id: T85
+Strides:
+TAMPERING
+
+INFORMATION DISCLOSURE
+
+Storage Theft
+Description:
+Thefts of storage media, storage devices, and computers containing storage systems occur. Recently, there has been an epidemic of thefts of unencrypted storage tapes containing confidential customer information. The decreasing size of portable storage combined with increasing capacity'e.g., a USB memory stick with 4GB capacity'makes it easier to steal storage media. Although such thefts require low levels of sophistication on the attacker's part, they may result in large economic and security damages unless the stolen data/metadata is encrypted and replicated.
+Id: T86
+Strides:
+INFORMATION DISCLOSURE
+
+Data Recovery from Discarded Storage Media
+Description:
+Neglecting to properly sanitize storage media before disposing of them allows attackers (or other third parties) access to data and metadata. Proper sanitation techniques include:, e.g. overwriting, degaussing, and encryption (along with destruction of corresponding decryption key).
+Id: T87
+Strides:
+DENIAL OF SERVICE
+
+Physical Destruction of Storage Media
+Description:
+Storage media can be physically destroyed by attackers using disintegration, incineration, pulverization, shredding, or melting. If storage media is intentionally destroyed by the owner with a purpose of retiring it, the data may still be recoverable. Hughes demonstrates that even after shooting at a hard disk with a bullet, it is still possible to read data using special instruments such as a Magnetic Force Microscope.
+Id: T117
+Strides:
+INFORMATION DISCLOSURE
+
+Eavesdropping
+Description:
+An adversary can easily retrieve valuable data from the transmitted packets that are sent
+Id: T118
+Strides:
+INFORMATION DISCLOSURE
+
+Message Reply
+Description:
+An adversary can re-transmit the content of the packets at a later time
+Id: T119
+Strides:
+SPOOFING
+
+Message Injection
+Description:
+The attacker can send out false data into network, maybe masquerading as one of the sensors, with the objective of corrupting the collected sensors'reading or disrupting the internal control data
+Id: T120
+Strides:
+SPOOFING
+
+Message Modification
+Description:
+An adversary can simply intercept and modify the packets' content meant for the base station or intermediate nodes
+Id: T121
+Strides:
+INFORMATION DISCLOSURE
+
+Message Deleting
+Description:
+An adversary can intercept and delete packets
+Id: T122
+Strides:
+SPOOFING
+
+Spoofing users
+Description:
+Spoofing is a type of computer attack that uses spoofing in various ways. Spoofing can take place at any level of the ISO / OSI stack and may also involve the falsification of application information.
+Id: T123
+Strides:
+ELEVATION OF PRIVILEGES
+
+Gaining unauthorized entry to a server or account
+Description:
+An adversary can entry to a server ora account without authorization
+Id: T124
+Strides:
+TAMPERING
+
+Using a server or account inappropriately
+Description:
+An adversary can use a server or account inappropriately
+Id: T125
+Strides:
+DENIAL OF SERVICE
+
+Denying service to other entities
+Description:
+An attacker can reduce system's availability by denial of service attack
+Id: T127
+Strides:
+DENIAL OF SERVICE
+
+Denial of Services
+Description:
+An attacker produce an amount of requests such that the assets cannot offer theyr services anymore
+Id: T128
+Strides:
+DENIAL OF SERVICE
