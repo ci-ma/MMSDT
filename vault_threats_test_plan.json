@@ -1,0 +1,19 @@
+[
+    {
+        "Valid Accounts": "https://attack.mitre.org/wiki/Technique/T1078"
+    },
+    {
+        "Valid Accounts: Default Accounts": "https://attack.mitre.org/wiki/Technique/T1078/001"
+    },
+    {
+        "Browser Session Hijacking": "https://attack.mitre.org/wiki/Technique/T1185",
+        "Use Alternate Authentication Material: Application Access Token": "https://attack.mitre.org/wiki/Technique/T1550/001",
+        "Remote Service Session Hijacking": "https://attack.mitre.org/wiki/Technique/T1563"
+    },
+    {
+        "Abuse Elevation Control Mechanism": "https://attack.mitre.org/wiki/Technique/T1548"
+    },
+    {
+        "Abuse Elevation Control Mechanism": "https://attack.mitre.org/wiki/Technique/T1548"
+    }
+]
