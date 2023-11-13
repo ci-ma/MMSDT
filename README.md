@@ -16,7 +16,7 @@ The catalogue is fully extensible, any suggestions or contributions are really w
 Our Threat Catalogue is implemented through the following files:
 
 - *Threat_AttackPattern_Catalogue.xlsx*: It provides the association between a collection of threats related to assets and CAPEC attack patterns
-- *AttackPattern_Attack_Catalogue.xlsx*: It correlates CAPEC attack patterns and MITRE ATT&CK tatics and techniques
+- *AttackPattern_Attack_Catalogue.xlsx*: It correlates CAPEC attack patterns and MITRE ATT&CK tactics and techniques
 
 ## Overview of the Proposed Methodology
 
@@ -57,5 +57,7 @@ python3 security_test_plan.py ./test/<file_name.txt> Threat_AttackPattern_Catalo
 # To generate the security test plan for each component in the test directory
 ./test.sh
 ```
+
+The security test plans will be stored in a directory named *security_test_plan*. As an illustrative example, we report the security test plan for the Vault component, which is available in the file *vault_threats_test_plan.json*.
 
 <img src="application.png" alt="application" width="50%" height="50%">
